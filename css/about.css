@@ -1,0 +1,20 @@
+.red{
+    
+    margin-top:10px;
+    margin-left:50px;
+    width:400px;
+    height:400px;
+    float:left;
+    background-image: url('../images/chandu1.jpg');
+    background-size: 100%;
+}
+#re{
+   
+    margin-top:60px;
+    margin-left:200px;
+    width:700px;
+    height:400px;
+    float:left; 
+    font-size: 30px;
+    font-style: italic;
+}

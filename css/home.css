@@ -1,0 +1,25 @@
+.re{
+    margin-top:100px;
+    margin-left:30px;
+    width:800px;
+    height:400px;
+    float:left;
+}
+#ch{
+    margin-left: 30px;
+    font-size: 80px;
+}
+#re{
+    
+    margin-top:140px;
+    margin-left:170px;
+    width:355px;
+    height:320px;
+    float:left;
+    background-image: url('../images/home.jpg');
+    background-size: 350px;
+}
+.kumar{
+    background-image: url('../images/background.jpg');
+    background-size: 1560px;
+}

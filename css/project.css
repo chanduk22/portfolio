@@ -1,0 +1,21 @@
+.b{
+    border:5px dashed rgb(10, 15, 12);
+    border-color: rgb(191, 22, 42);
+    width:800px;
+    height:500px;
+    margin-top: 40px;
+    margin-left: 300px;
+    background-image: url('../images/5.jpeg');
+    background-repeat: no-repeat;
+    background-size: 800px;
+}
+.c{
+    border:5px dashed rgb(13, 223, 90);
+    width:800px;
+    height:500px;
+    margin-top: 50px;
+    margin-left: 300px; 
+    background-image: url('../images/6.png');
+    background-repeat: no-repeat;
+    background-size: 800px;
+}

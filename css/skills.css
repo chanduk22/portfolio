@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+}
+
+.j{
+    text-align: right;
+    border: 2px solid black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width:1300px;
+}
+.k{
+    padding-left: 120px;
+    font-style: oblique;
+    font-size: 25px;
+    color: rgb(255, 0, 0);
+}
+.jk {
+    width: 80%;
+    background-color: #ddd;
+    margin-left: 140px;
+  }
+  .j {
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+   
+    color: white;
+  }
+  .html {
+    width: 70%; background-color: #0fb377;
+}
+  .css {
+    width: 70%; background-color: #bb21f3;
+}
+  .python {
+    width: 60%; background-color: #ff2111;
+}
+  .java {
+    width: 70%; background-color: #1677a3;
+}
